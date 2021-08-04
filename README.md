@@ -1,0 +1,1 @@
+This is a basic JavaScribe practice and simple problem solving.
