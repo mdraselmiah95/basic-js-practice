@@ -8,18 +8,18 @@
 
 // even number
 
-// function isEven(num) {
-//     if (num % 2 == 0) {
-//         return true;
-//     }
-//     return false;
-// }
+function isEven(num) {
+    if (num % 2 == 0) {
+        return true;
+    }
+    return false;
+}
 
-// var isMyNumberEven = isEven(1387);
-// console.log('This is my number: ', isMyNumberEven);
+var isMyNumberEven = isEven(1387);
+console.log('This is my number: ', isMyNumberEven);
 
-// var isMyNumberEven = isEven(176382);
-// console.log('This is my number:', isMyNumberEven);
+var isMyNumberEven = isEven(176382);
+console.log('This is my number:', isMyNumberEven);
 
 // odd number
 
