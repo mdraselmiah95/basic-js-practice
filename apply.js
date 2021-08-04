@@ -50,6 +50,7 @@ var newPrice = isPriceGood();
 
 
 // value of the variable could change
+
 let price = 27;
 price = 34;
 
