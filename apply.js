@@ -6,7 +6,7 @@ var time = '10:19pm';
 var price = 200;
 var isHeCome = false;
 
-Array
+// Array
 
 var numbers = [12, 33, 56, 75, 23, 76, 87];
 
@@ -17,7 +17,7 @@ numbers.pop();
 
 // also shift and unshift
 
-conditional
+// conditional
 
 if (bookPrice < 119) {
     console.log('I will buy this books.');
@@ -46,16 +46,21 @@ function isPriceGood() {
 }
 
 
-var newPrice = isPriceGood();
+// var newPrice = isPriceGood();
 
 
 // value of the variable could change
 
-let price = 27;
-price = 34;
+// let price = 27;
+// price = 34;
 
 // let const value if the variable will not change
 
-const name = 'Rasel Mia';
+// const name = 'Rasel Mia';
 
+
+
+// for (let i = 10; i >= 1; i--){
+//     console.log(i);
+// }
 
